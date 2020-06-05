@@ -1,0 +1,51 @@
+.btn-primary{
+  background-color: #FE3C72 !important;
+  border-color: #FE3C72 !important;
+}
+.btn-primary:hover{
+  background-color: #fff !important;
+  border-color: #FE3C72 !important;
+  color: #FE3C72 !important;
+}
+form{
+  margin-top: 3rem;
+}
+.login{
+  margin-top: 5rem;
+  height: 30rem;
+
+}
+h1{
+  text-align: center;
+  padding: 1rem;
+  padding-bottom: 0rem;
+  font-family: 'Fredoka One', cursive;
+  font-size: 3rem;
+}
+label{
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+hr{
+  width: 5%;
+  border-top: 10px dotted #FE3C72;
+}
+input {
+  border-top-style: hidden !important;
+  border-left-style: hidden !important;
+  border-bottom-style: groove !important;
+  background-color: rgba(254, 60, 114,0.2) !important;
+  border-radius: 0 !important;
+  border-width: 3px !important;
+  border-color: black !important;
+}
+.fa-icon{
+  text-align: center;
+  padding-top: 0.5rem;
+}
+.fa-satellite-dish{
+  color: #FE3C72;
+}
+input:hover{
+  background-color: rgba(254, 60, 114,0.3) !important;
+}
